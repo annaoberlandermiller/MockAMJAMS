@@ -9,10 +9,10 @@ namespace MockAMJAMS
 {
 	class Accused
 	{
-		public int ACCSocial { get; set; }
-		public string ACCName { get; set; }
-		public string ACCRank { get; set; }
-		public string ACCBase { get; set; }
+		public string Social { get; set; }
+		public string Name { get; set; }
+		public string Rank { get; set; }
+		public string Base { get; set; }
 	}
 	
 }
